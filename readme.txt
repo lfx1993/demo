@@ -1,11 +1,12 @@
-1111111
-22222222
-33333333
-4
-5
-6
-7
-8
-9999
-master添加的内容
-uuuu
+git命令别名
+[alias]
+    ad = add .
+	cmm = commit -m
+	lg = log
+	rlg = reflog
+	co = checkout
+	cob = checkout -b
+	cm = commit
+	st =status
+	pl = pull
+	br = branch
