@@ -1,6 +1,6 @@
 <template>
     <div>
-        首页master
+        master分支首页
     </div>
 </template>
 <script>
