@@ -1,7 +1,6 @@
 <template>
     <div>
-        入口
-        
+        master入口
     </div>
 
 </template>
